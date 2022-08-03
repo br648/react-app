@@ -5,8 +5,6 @@
 .prettierignore,b\6\b69d8408b6c89ae66e712f0e6af68848291cfdfb
 ;
 .prettierrc,2\0\20137a9e94744624390b6748bc96df5ca1579b71
-<
-package.json,7\0\7030d0b2f71b999ff89a343de08c414af32fc93a
 B
 .github/CODEOWNERS,7\f\7f9004ad0df1b6391abc998d9a153f9e763cbdd7
 ?
