@@ -18,3 +18,9 @@ D
 commitlint.config.js,4\7\474754c7aadafbf6e1e131ed23261323f5873cdc
 9
 	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
+S
+#.github/actions/hello/dist/index.js,6\9\6908ff534e586d05f2f9d56f439f58f8c33c40ab
+N
+.github/actions/hello/index.js,8\b\8bf3a206c61f2446e8d1d087949c908727cfacf8
+H
+.github/workflows/ci.yml,8\9\899ce9c202bf7bb5480e72836c3edc773c9c4244
